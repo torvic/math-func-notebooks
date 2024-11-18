@@ -1,0 +1,9 @@
+name: myenv
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - conda-forge::matplotlib
+  - ipykernel
+prefix: C:\Users\PC\miniconda3\envs\myenv
